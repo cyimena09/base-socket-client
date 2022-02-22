@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main2 {
 
     /**
-     * Permet d'envoyer une chaine de caractère
+     * Permet d'envoyer une chaine de caractère.
      *
      * @param args
      * @throws Exception

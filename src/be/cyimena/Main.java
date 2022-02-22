@@ -7,6 +7,11 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**
+     * Permet d'envoyer un octet.
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         System.out.println("Connexion au server");
         Socket s = new Socket("192.168.1.9", 1234);
